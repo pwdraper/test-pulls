@@ -4,7 +4,7 @@ test-pulls
 Simple repository to test pull requests
 
 <div>
-<OBJECT data="LICENSE">
+<iframe src="LICENSE">
   Warning: could not include LICENSE
-</OBJECT>
+</iframe>
 </div>
